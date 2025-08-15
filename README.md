@@ -8,7 +8,7 @@
 
 <p align=”center”>
 
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/57edbb78-ea09-4d4d-ae37-798035aa4707" />
+<img width="1834" alt="Make your README" src="Hi! I'm Muhammad Ameer.png" />
 
 
 </p>
