@@ -1,4 +1,9 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6430bd12-bda5-4e22-abb2-2620f7318ac7)
+<p align=”center”>
+
+<img width="1834" alt="Make your README" src="Starting GIF.gif" />
+
+
+</p>
 
 ###
 
